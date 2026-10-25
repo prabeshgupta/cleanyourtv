@@ -47,7 +47,7 @@ if defined ANDROID_HOME echo [INFO] ANDROID_HOME: %ANDROID_HOME%
 echo [INFO] Running Gradle assembleRelease...
 echo.
 
-call gradlew.bat :app:assembleRelease %*
+call gradlew.bat :app:assembleRelease
 
 if %ERRORLEVEL% equ 0 (
     echo.

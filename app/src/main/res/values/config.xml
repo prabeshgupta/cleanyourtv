@@ -18,8 +18,8 @@
     <!-- Apps pinned to the dock row at the bottom, in this order. Missing apps are skipped. -->
     <string-array name="dock_apps">
         <item>np.com.geniussystems.android.stb.iptv</item>
-        <item>app.netmirror.newtv</item>
-        <item>com.stremio.one</item>
+        <item>com.google.android.youtube.tv</item>
+        <item>com.graymatrix.did</item>
         <item>com.opera.browser</item>
     </string-array>
     <!-- With fewer dock_apps than columns (or a dock app that is not installed), the free dock slots take

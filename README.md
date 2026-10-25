@@ -168,8 +168,8 @@ Default apps pinned to the dock can be customized in `app/src/main/res/values/co
 ```xml
 <string-array name="dock_apps">
     <item>np.com.geniussystems.android.stb.iptv</item>
-    <item>app.netmirror.newtv</item>
-    <item>com.stremio.one</item>
+    <item>com.google.android.youtube.tv</item>
+    <item>com.graymatrix.did</item>
     <item>com.opera.browser</item>
 </string-array>
 ```
