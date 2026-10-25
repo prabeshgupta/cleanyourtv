@@ -166,9 +166,9 @@ adb shell cmd package set-home-activity <stock_launcher_package>/<activity>
 Default apps pinned to the dock can be customized in `app/src/main/res/values/config.xml`:
 
 ```xml
-<string-array name="default_dock_packages">
-    <item>com.nepal.livetv</item>
-    <item>com.netmirror.tv</item>
+<string-array name="dock_apps">
+    <item>np.com.geniussystems.android.stb.iptv</item>
+    <item>app.netmirror.newtv</item>
     <item>com.stremio.one</item>
     <item>com.opera.browser</item>
 </string-array>
